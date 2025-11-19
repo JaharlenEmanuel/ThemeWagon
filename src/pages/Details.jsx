@@ -4,13 +4,13 @@ export default function Details() {
             titulo: "A creative team which builds stunning UI/UX",
             parraf1: "Today, I'd like to show you some incredible Sign Up screen app UI ideas and concepts that offer a modern user experience.The most stunning, cutting-edge UI/UX.",
             parraf2: "Klean is a free Bootstrap 5 template for multipurpose landing pages. This design is a perfect choice, carefully curated by ThemeWagon",
-            icon: "/themewagon/3.details/illustration3.png"
+            icon: "/images/3.details/illustration3.png"
         },
         {
             titulo: "Devoted to defining the cutting edge",
             parraf1: "This new creation is cutting-edge technology, says the researcher, whose study originates from a business at the forefront of space science.",
             parraf2: "Klean is a free Bootstrap 5 template for multipurpose landing pages. This design is a perfect choice, carefully curated by ThemeWagon",
-            icon: "/themewagon/3.details/illustration6.png"
+            icon: "/images/3.details/illustration6.png"
         }
     ]
 

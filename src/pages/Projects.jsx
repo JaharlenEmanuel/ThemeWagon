@@ -1,11 +1,11 @@
 export default function Projects() {
     const projectImages = [
-        "/5.projects/image1.png",
-        "/5.projects/image2.png",
-        "/5.projects/image3.png",
-        "/5.projects/image4.png",
-        "/5.projects/image5.png",
-        "/5.projects/image6.png"
+        "/images/5.projects/image1.png",
+        "/images/5.projects/image2.png",
+        "/images/5.projects/image3.png",
+        "/images/5.projects/image4.png",
+        "/images/5.projects/image5.png",
+        "/images/5.projects/image6.png"
     ]
 
     return (

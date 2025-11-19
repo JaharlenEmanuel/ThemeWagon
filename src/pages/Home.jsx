@@ -27,7 +27,7 @@ export default function Home() {
                         </button>
                     </div>
                     <div className="w-[57%]  bg-contain bg-no-repeat h-140"
-                        style={{ backgroundImage: "url('/themewagon/1.home/illustration1.png')" }}></div>
+                        style={{ backgroundImage: "url('/images/1.home/illustration1.png')" }}></div>
                 </div>
 
 

@@ -3,17 +3,17 @@ export default function Services() {
         {
             titulo: "Send Texts Instantly",
             parraf: "Financial planning, forecasting and adjusting rapidly with customer demands and budgets.",
-            icon: "/2.services/icon1.png"
+            icon: "/images/2.services/icon1.png"
         },
         {
             titulo: "Better Organized",
             parraf: "Latest technology and experienced guidance, trained HR specialists to keep updated",
-            icon: "/2.services/icon2.png"
+            icon: "/images/2.services/icon2.png"
         },
         {
             titulo: "Analytical Statistics",
             parraf: "Messages, real-time reminders, memos, and many more will keep your team in sync",
-            icon: "/2.services/icon3.png"
+            icon: "/images/2.services/icon3.png"
         }
     ]
     return (

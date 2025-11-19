@@ -61,7 +61,7 @@ export default function Contact() {
                                 {/* Imagen de fondo */}
                                 <div
                                     className="absolute inset-0 bg-cover bg-no-repeat"
-                                    style={{ backgroundImage: "url('/7.contact/image1.png')" }}
+                                    style={{ backgroundImage: "url('/images/7.contact/image1.png')" }}
                                 >
                                     {/* Overlay para mejor legibilidad */}
                                     <div className="absolute "></div>
