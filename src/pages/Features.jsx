@@ -3,32 +3,32 @@ export default function Features() {
         {
             titulo: "Encrypted Mail",
             parrafo: "A process of encrypting email communications",
-            icon: "/themewagon/4.features/icon1.png"
+            icon: "/4.features/icon1.png"
         },
         {
             titulo: "Display Sharing",
             parrafo: "With other participants, you may share your screen",
-            icon: "/themewagon/4.features/icon2.png"
+            icon: "/4.features/icon2.png"
         },
         {
             titulo: "Private Notebook",
             parrafo: "Private Notebook is an application that is protected",
-            icon: "/themewagon/4.features/icon3.png"
+            icon: "/4.features/icon3.png"
         },
         {
             titulo: "App Assistance",
             parrafo: "App Assistant is quickly and effectively ran the system",
-            icon: "/themewagon/4.features/icon4.png"
+            icon: "/4.features/icon4.png"
         },
         {
             titulo: "Multiple Printing",
             parrafo: "Our canvas prints are crafted on top-notch canvas.",
-            icon: "/themewagon/4.features/icon5.png"
+            icon: "/4.features/icon5.png"
         },
         {
             titulo: "Free Sketch",
             parrafo: "Our canvas prints are crafted on top-notch canvas.",
-            icon: "/themewagon/4.features/icon6.png"
+            icon: "/4.features/icon6.png"
         }
     ]
 

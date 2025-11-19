@@ -1,22 +1,22 @@
 export default function Team() {
     const teamMembers = [
         {
-            image: "/themewagon/6.team/image1.png",
+            image: "6.team/image1.png",
             name: "John Adams",
             role: "CEO"
         },
         {
-            image: "/themewagon/6.team/image2.png",
+            image: "/6.team/image2.png",
             name: "Carrey Johnson",
             role: "Senior Developer"
         },
         {
-            image: "/themewagon/6.team/image3.png",
+            image: "/6.team/image3.png",
             name: "Ray Marie",
             role: "Developer"
         },
         {
-            image: "/themewagon/6.team/image4.png",
+            image: "/6.team/image4.png",
             name: "Austin Min",
             role: "Designer"
         }

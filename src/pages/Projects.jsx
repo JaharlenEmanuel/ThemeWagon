@@ -1,11 +1,11 @@
 export default function Projects() {
     const projectImages = [
-        "/themewagon/5.projects/image1.png", // Col 1, Fila 1 (1x1)
-        "/themewagon/5.projects/image2.png", // Col 2, Fila 1-2 (1x2)
-        "/themewagon/5.projects/image3.png", // Col 3, Fila 1 (1x1)
-        "/themewagon/5.projects/image4.png", // Col 1, Fila 2-3 (1x2)
-        "/themewagon/5.projects/image5.png", // Col 1, Fila 3 (1x1) - O Col 3, Fila 3
-        "/themewagon/5.projects/image6.png"  // Col 3, Fila 2-3 (1x2)
+        "/5.projects/image1.png",
+        "/5.projects/image2.png",
+        "/5.projects/image3.png",
+        "/5.projects/image4.png",
+        "/5.projects/image5.png",
+        "/5.projects/image6.png"
     ]
 
     return (

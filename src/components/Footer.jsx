@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer className="bg-linear-to-bl from-blue-100 to-pink-100 text-white py-12">
+        <footer className="bg-linear-to-bl from-blue-100 to-pink-100 text-black py-12">
             <div className="max-w-6xl mx-auto px-4">
                 {/* Primera fila - Navegación principal */}
                 <div className="grid grid-cols-2 md:grid-cols-6 gap-8 mb-8">
